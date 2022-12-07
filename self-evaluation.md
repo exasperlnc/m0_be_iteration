@@ -1,6 +1,6 @@
 # Self Evaluation
 
-- How confident do you feel in your understanding and fluency with the `each` method?
-- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle?
-- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
-- What questions do you still have? How will you get the answers you need?
+- How confident do you feel in your understanding and fluency with the `each` method? Pretty good! the exercises were harder this time, but I got to practice my googlefu
+- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle? I had some productive struggle! There was one error with the first time that I was using the each method that took me a while to figure out, I actually ended up coming back to it. 
+- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that? I still need to record the video, but other than that I'm good. My loom isn't letting me record for some reason. 
+- What questions do you still have? How will you get the answers you need? I don't have any questions about this right now :) 
